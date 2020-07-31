@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A simple tic-tac-toe test",
+  "main": "script.js",
+  "scripts": {
+    "start": "open index.html && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantbs/tictactoe.git"
+  },
+  "author": "sushant.bs@gmail.com <Sushant Sudarshan>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sushantbs/tictactoe/issues"
+  },
+  "homepage": "https://github.com/sushantbs/tictactoe#readme",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
